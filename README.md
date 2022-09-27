@@ -39,7 +39,7 @@ You can ask questions about how to use GoConvey on [StackOverflow](http://stacko
 Installation
 ------------
 
-	$ go get github.com/smartystreets/goconvey
+	$ go get github.com/pressuretank/goconvey
 
 [Quick start](https://github.com/smartystreets/goconvey/wiki#get-going-in-25-seconds)
 -----------
