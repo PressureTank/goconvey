@@ -1,4 +1,4 @@
-module github.com/smartystreets/goconvey
+module github.com/PressureTank/goconvey
 
 go 1.16
 
